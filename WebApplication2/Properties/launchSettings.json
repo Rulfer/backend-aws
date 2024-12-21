@@ -34,5 +34,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     }
-  }
+  },
+
+  "urls": "https://0.0.0.0:5000"
 }
